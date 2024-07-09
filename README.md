@@ -1,2 +1,50 @@
-# my_portfolio
-My Specific Portfolio
+# Aaditya Raj Pandey Portfolio
+
+## Introduction
+- **Portfolio Purpose**: Showcase data science skills and projects.
+- **Technologies**: Built using HTML, CSS, JavaScript, jQuery, and Bootstrap.
+- **Focus**: Highlights data science as a minor subject focus.
+
+## Technologies Used
+- **Frontend**: HTML, CSS, JavaScript, jQuery
+- **Framework**: Bootstrap
+
+## Features
+- **Responsive Design**: Mobile-friendly layout using Bootstrap.
+- **Interactive Elements**: CSS and JavaScript for animations and interactivity.
+- **Project Showcase**: Detailed descriptions and GitHub links for projects.
+- **Contact Section**: Easy way for visitors to get in touch.
+
+## Sections
+
+### Home
+- Personal greeting with an animated typing effect.
+- Brief introduction about me and my data science focus.
+- Direct links to my GitHub works.
+
+### About
+- Dynamic profile image with a shake animation.
+- Personal information: Name, experience, address.
+- Detailed skill set with progress bars indicating proficiency.
+- Interests, languages, and other relevant details.
+
+### Resume
+- Brief professional summary.
+- Professional experience with details about roles and responsibilities.
+- Educational background with details about institutions and academic achievements.
+- Link to download my CV.
+
+### Projects
+- **Face Mask Detection**: Python, TensorFlow, Keras; detects face masks in real-time.
+- **Jarvis - A Desktop Assistant**: Python, OpenAI APIs; voice-activated desktop assistant.
+- **Gender and Age Detection**: Python, CNN, OpenCV; detects gender and age from a face image.
+- **Netflix Data Analysis**: Tableau; working dashboard analyzing Netflix dataset from Kaggle.
+- **HR Analytics Dashboard**: Power BI, DAX Query; analyzed employee data for trends and insights.
+
+## How to Run
+- **Step 1**: Navigate to the project directory: `cd my_portfolio`
+- **Step 2**: Open `index.html` in a web browser.
+
+## Contact
+- **LinkedIn**: [Aaditya Raj Pandey](https://www.linkedin.com/in/aaditya-raj-pandey-865288244/)
+- **GitHub**: [aaditya620321](https://github.com/aaditya620321)
