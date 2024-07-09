@@ -1,4 +1,4 @@
-# Aaditya Raj Pandey Portfolio
+# Portfolio
 
 ## Introduction
 - **Portfolio Purpose**: Showcase data science skills and projects.
