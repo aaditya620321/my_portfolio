@@ -44,6 +44,14 @@
 ## How to Run
 - **Step 1**: Navigate to the project directory: `cd my_portfolio`
 - **Step 2**: Open `index.html` in a web browser.
+  
+## About The Folder 
+
+- There is an index.html file as a main HTML file.
+- Other than this, there is an another file named portfolio other files.zip that contains all the required libraries,css , image and bootstrap files.
+- Create a Main folder for the Project inside this keep the index.html file and unzip the portfolio other files.zip, the unzipped folder name will be portfolio 
+  other files now inside this folder copy all the files and folder then come out of this folder (portfolio other files) now you are inside the main folder, then 
+  Paste those files and folders , and most important delete that unzipped folder (portfolio other files).Inside the code there is an Resume Replace the resume with   your's and change that name in the code.
 
 ## Contact
 - **LinkedIn**: [Aaditya Raj Pandey](https://www.linkedin.com/in/aaditya-raj-pandey-865288244/)
