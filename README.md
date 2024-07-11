@@ -1,7 +1,9 @@
 # Portfolio
 
 ## Overview
--[my_Portfolio](https://myportfolio2628.netlify.app/){:target="_blank"}
+[my_Portfolio](https://myportfolio2628.netlify.app/)
+<a href="https://myportfolio2628.netlify.app/" target="_blank">my_Portfolio</a>
+
 ## Introduction
 - **Portfolio Purpose**: Showcase data science skills and projects.
 - **Technologies**: Built using HTML, CSS, JavaScript, jQuery, and Bootstrap.
