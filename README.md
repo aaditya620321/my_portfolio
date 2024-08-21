@@ -14,7 +14,7 @@
 
 ## Features
 - **Responsive Design**: Mobile-friendly layout using Bootstrap.
-- **Interactive Elements**: CSS and JavaScript for animations and interactivity.
+- **Interactive Elements**: CSS and JavaScript for animations and interactivity..
 - **Project Showcase**: Detailed descriptions and GitHub links for projects.
 - **Contact Section**: Easy way for visitors to get in touch.
 
